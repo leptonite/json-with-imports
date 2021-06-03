@@ -1,0 +1,6 @@
+[
+   3,
+   {
+      "@import": "./max-depth-4.json"
+   }
+]

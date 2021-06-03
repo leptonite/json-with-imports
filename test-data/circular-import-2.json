@@ -1,0 +1,5 @@
+{
+   "import": {
+      "@import": "./circular-import-3.json"
+   }
+}

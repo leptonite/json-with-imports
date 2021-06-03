@@ -1,0 +1,5 @@
+{
+   "selfImport": {
+      "@import": "./self-import.json5"
+   }
+}

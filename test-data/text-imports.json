@@ -1,0 +1,26 @@
+{
+   "null": null,
+   "boolean": false,
+   "number": 0,
+   "string": "",
+   "emptyObject": {},
+   "singlePropObject": {
+      "foo": "bar"
+   },
+   "multiPropObject": {
+      "a": 1,
+      "b": 2,
+      "textImport": {
+         "@import-text": "./text1.txt"
+      },
+      "c": 3
+   },
+   "array": [
+      1,
+      2,
+      {
+         "@import-text": "./text2.txt"
+      },
+      3
+   ]
+}

@@ -1,0 +1,3 @@
+Hello there 1,
+this is a UTF-8 encoded text file!
+·×
