@@ -5,6 +5,10 @@
    "license": "WTFPL",
    "main": "build/index.js",
    "types": "build/index.d.ts",
+   "repository": {
+      "type": "git",
+      "url": "https://github.com/leptonite/json-with-imports.git"
+   },
    "scripts": {
       "build": "tsc -p .",
       "test": "jest --coverage"
