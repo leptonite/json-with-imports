@@ -4,5 +4,6 @@
       ".vscode": true,
       "node_modules": true
    },
+   "typescript.format.semicolons": "insert",
    "typescript.tsdk": "node_modules/typescript/lib"
 }

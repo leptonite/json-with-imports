@@ -1,5 +1,3 @@
 {
-   "import": {
-      "@import": "./circular-import-4.json"
-   }
+   "import": "${import:./circular-import-4.json}"
 }

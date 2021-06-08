@@ -1,0 +1,4 @@
+{
+   "comment": "this is illegal, a text import must have a non-empty filename argument",
+   "text-import-with-empty-filename": "${import-text:}"
+}

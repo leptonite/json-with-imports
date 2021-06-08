@@ -1,0 +1,4 @@
+{
+   "comment": "this is illegal, a line import must have a filename argument",
+   "line-import-without-filename": "${import-first-line}"
+}

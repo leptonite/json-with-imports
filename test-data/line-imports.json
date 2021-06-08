@@ -10,17 +10,13 @@
    "multiPropObject": {
       "a": 1,
       "b": 2,
-      "lineImport": {
-         "@import-first-line": "./text1.txt"
-      },
+      "lineImport": "${import-first-line:./text1.txt}",
       "c": 3
    },
    "array": [
       1,
       2,
-      {
-         "@import-first-line": "./text2.txt"
-      },
+      "${import-first-line:./text2.txt}",
       3
    ]
 }

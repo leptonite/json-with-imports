@@ -1,0 +1,4 @@
+{
+   "comment": "this is illegal, an import cannot be used together with string literals",
+   "combined-imports": "a string literal combined with ${import:no-imports.json}"
+}

@@ -1,0 +1,4 @@
+{
+   "comment": "this is illegal, an import cannot be used together with another macro",
+   "combined-imports": "${import:no-imports.json}${import:no-imports.json}"
+}

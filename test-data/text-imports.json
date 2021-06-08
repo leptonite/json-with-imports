@@ -10,17 +10,13 @@
    "multiPropObject": {
       "a": 1,
       "b": 2,
-      "textImport": {
-         "@import-text": "./text1.txt"
-      },
+      "textImport": "${import-text:./text1.txt}",
       "c": 3
    },
    "array": [
       1,
       2,
-      {
-         "@import-text": "./text2.txt"
-      },
+      "${import-text:./text2.txt}",
       3
    ]
 }

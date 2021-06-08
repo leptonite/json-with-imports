@@ -1,3 +1,1 @@
-{
-   "@import": "./no-imports.json"
-}
+"${import:./no-imports.json}"

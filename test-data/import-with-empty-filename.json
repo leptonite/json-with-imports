@@ -1,0 +1,4 @@
+{
+   "comment": "this is illegal, an import must have a non-empty filename argument",
+   "import-with-empty-filename": "${import:}"
+}

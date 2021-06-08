@@ -1,0 +1,4 @@
+{
+   "comment": "this is illegal, there is no macro named 'foo'",
+   "undefined-macro": "${foo:bar}"
+}

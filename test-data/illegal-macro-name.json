@@ -1,0 +1,4 @@
+{
+   "comment": "this is illegal, a macro name can only contain lowercase letters (a-z) and dashes (-)",
+   "undefined-macro": "${foo*:bar}"
+}

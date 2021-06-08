@@ -1,0 +1,1 @@
+"<<<${import-first-line:./text1.txt}|||${import-first-line:./text2.txt}>>>"

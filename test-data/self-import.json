@@ -1,5 +1,4 @@
 {
-   "selfImport": {
-      "@import": "./self-import.json5"
-   }
+   "comment": "this is illegal, a file cannot import itself",
+   "self-import": "${import:./self-import.json}"
 }

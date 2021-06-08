@@ -1,0 +1,4 @@
+{
+   "comment": "this is illegal, a text import must have a filename argument",
+   "text-import-without-filename": "${import-text}"
+}

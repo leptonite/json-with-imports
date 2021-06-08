@@ -1,6 +1,4 @@
 [
    1,
-   {
-      "@import": "./max-depth-2.json"
-   }
+   "${import:./max-depth-2.json}"
 ]
