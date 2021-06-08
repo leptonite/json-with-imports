@@ -16,5 +16,8 @@
       "json5": "2.2.0",
       "ts-jest": "27.0.2",
       "typescript": "4.3.2"
+   },
+   "bin": {
+      "json-with-imports": "./json-with-imports.js"
    }
 }
