@@ -1,6 +1,6 @@
 {
    "name": "@leptonite/json-with-imports",
-   "version": "0.1.0",
+   "version": "0.2.1",
    "author": "Daniel Faber <mail@daniel-faber.de>",
    "license": "WTFPL",
    "main": "build/index.js",
